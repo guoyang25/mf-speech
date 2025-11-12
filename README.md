@@ -21,9 +21,9 @@ MF-Speech is a novel framework that achieves **fine-grained and compositional co
 
 ## Key Contributions
 
-- **Factor Disentanglement**: MF-SpeechEncoder decomposes speech into highly pure and independent representations of content, timbre, and emotion
-- **Compositional Control**: MF-SpeechGenerator enables precise, composable, and fine-grained control through Dynamic Fusion Module and Hierarchical Style Adaptive Normalization (HSAN)
-- **Superior Performance**: Achieves state-of-the-art results with:
+- 🍅**Factor Disentanglement**: MF-SpeechEncoder decomposes speech into highly pure and independent representations of content, timbre, and emotion
+- 🍍**Compositional Control**: MF-SpeechGenerator enables precise, composable, and fine-grained control through Dynamic Fusion Module and Hierarchical Style Adaptive Normalization (HSAN)
+- 🍆**Superior Performance**: Achieves state-of-the-art results with:
   - Lower **Word Error Rate (WER = 4.67%)**
   - Superior **Style Control (SECS = 0.5685, Corr = 0.68)**
   - Highest **Subjective Evaluation Scores (nMOS = 3.96, sMOS_emotion = 3.86, sMOS_style = 3.78)**
@@ -114,7 +114,6 @@ If you find MF-Speech useful in your research, please cite:
 **AAAI 2026** - The 40th AAAI Conference on Artificial Intelligence
 - **Decision**: Oral Presentation
 - **Decision Date**: November 8, 2025
-- **Presentation Type**: Oral
 
 ## License
 
