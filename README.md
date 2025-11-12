@@ -8,6 +8,12 @@
 
 🎉 **Accepted to AAAI 2026 as Oral Presentation!** 
 
+## Links
+
+- 📄 [Paper PDF](static/pdfs/MF_Speech.pdf)
+- 💻 [Code Repository](https://github.com/guoyang25/mf-speech)
+- 🌐 [Project Page](https://guoyang25.github.io/mf-speech/)
+
 ## Overview
 
 MF-Speech is a novel framework that achieves **fine-grained and compositional control** in speech generation by disentangling content, timbre, and emotion factors. This approach overcomes fundamental challenges in expressive speech synthesis through multi-objective optimization and hierarchical adaptive normalization.
@@ -101,11 +107,7 @@ If you find MF-Speech useful in your research, please cite:
 
 **Affiliation**: School of Cyber Science and Technology, University of Science and Technology of China (USTC)
 
-## Links
 
-- 📄 [Paper PDF](static/pdfs/MF_Speech.pdf)
-- 💻 [Code Repository](https://github.com/guoyang25/mf-speech)
-- 🌐 [Project Page](https://guoyang25.github.io/mf-speech/)
 
 ## Conference Information
 
