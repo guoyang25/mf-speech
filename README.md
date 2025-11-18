@@ -10,7 +10,7 @@
 
 ## Links
 
-- 📄 [Paper PDF](static/pdfs/MF_Speech.pdf)
+- 📄 [Paper PDF](https://arxiv.org/abs/2511.12074)
 - 💻 [Code Repository](https://github.com/guoyang25/mf-speech)
 - 🌐 [Project Page](https://guoyang25.github.io/mf-speech/)
 
